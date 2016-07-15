@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1468603764 source:d:\zadania c++\moje 1\main.cpp
+	<algorithm>
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	<cctype>
+
